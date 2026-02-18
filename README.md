@@ -1,2 +1,1 @@
-# jenkinsexamples
-jenkins
+# JenkinsExamples
